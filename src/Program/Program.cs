@@ -1,4 +1,5 @@
-﻿Console.WriteLine(Division.Divide(18, 2));
+﻿// Esta clase implementa la operación division
+Console.WriteLine(Division.Divide(18, 2));
 
 public class Division
 {
