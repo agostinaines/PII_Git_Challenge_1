@@ -11,10 +11,6 @@ public class Division
     }
 }
 
-<<<<<<< HEAD
-// Esta clase implementa la operación SUMA
-=======
->>>>>>> feature-multiplication
 public class Addition
 {
     public static int Add(int a, int b)
