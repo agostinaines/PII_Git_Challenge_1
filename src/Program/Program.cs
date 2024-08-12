@@ -1,4 +1,5 @@
-﻿Console.WriteLine(Subtraction.Substract(10, 1));
+﻿// Esta clase implementa la operación <nombre-operación>
+Console.WriteLine(Subtraction.Substract(10, 1));
 
 public class Subtraction
 {
