@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-﻿// Esta clase implementa la operación division
+// Esta clase implementa la operación division
+
+Console.WriteLine(Addition.Add(7, 2));
+Console.WriteLine(Subtraction.Substract(10, 1));
+Console.WriteLine(Multiplication.Multiply(3, 3));
 Console.WriteLine(Division.Divide(18, 2));
 
 public class Division
@@ -9,9 +12,6 @@ public class Division
         return a / b;
     }
 }
-=======
-﻿// Esta clase implementa la operación <nombre-operación>
-Console.WriteLine(Subtraction.Substract(10, 1));
 
 public class Subtraction
 {
@@ -23,4 +23,11 @@ public class Subtraction
     
 }
 
->>>>>>> feature-subtraction3
+// Esta clase implementa la operación SUMA
+public class Addition
+{
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
